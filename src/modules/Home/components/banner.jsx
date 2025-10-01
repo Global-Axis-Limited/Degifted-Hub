@@ -21,19 +21,19 @@ const DynamicBanner = () => {
   const imageCards = [
     { 
       title: 'Creative Studios', 
-      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075919/DigiftedHub/Rectangle_5_eydtef.jpg' // Replace with your actual image URL
+      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075919/DigiftedHub/Rectangle_5_eydtef.jpg'
     },
     { 
       title: 'Live Events', 
-      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075915/DigiftedHub/Rectangle_6_l7utcl.jpg' // Replace with your actual image URL
+      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075915/DigiftedHub/Rectangle_6_l7utcl.jpg'
     },
     { 
       title: 'Business Solutions', 
-      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075915/DigiftedHub/Rectangle_6_l7utcl.jpg' // Replace with your actual image URL
+      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075915/DigiftedHub/Rectangle_6_l7utcl.jpg'
     },
     { 
       title: 'Digital Innovation', 
-      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075919/DigiftedHub/Rectangle_5_eydtef.jpg' // Replace with your actual image URL
+      imageUrl: 'https://res.cloudinary.com/ddj0k8gdw/image/upload/v1759075919/DigiftedHub/Rectangle_5_eydtef.jpg'
     },
     // Duplicates for seamless loop
     { 
