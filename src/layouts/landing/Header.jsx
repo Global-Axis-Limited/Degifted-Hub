@@ -105,7 +105,6 @@ const Header = () => {
             {isMobileMenuOpen && (
                 <div className="fixed inset-0 z-50 md:hidden">
                     <div className="fixed inset-0 bg-black/50" onClick={toggleMobileMenu}></div>
-
                     {/* Flyout Menu */}
                     <div className="fixed top-0 right-0 h-full w-80 bg-gradient-to-b from-purple-600 via-purple-500 to-pink-500 text-white shadow-xl transform transition-transform duration-300 ease-in-out">
                         <div className="p-6">
